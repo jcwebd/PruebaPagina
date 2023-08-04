@@ -328,7 +328,7 @@ input, select, textarea {
 	}
 
 	hr {
-		border-bottom-color: rgba(255, 255, 255, 0.35);
+		border-bottom-color: rgba(223, 13, 13, 0.35);
 	}
 
 /* Row */
@@ -2291,7 +2291,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #a3d79b;
 		}
 
 		.icon.style2 {
@@ -2884,15 +2884,15 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #538149;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #dd01e1;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #490fe8;
 			}
 
 			.statistics li.style4 {
